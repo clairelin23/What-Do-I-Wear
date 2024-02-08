@@ -4,9 +4,9 @@ This repo contains the project developed by Team 21 ([Devin Gonzales](https://gi
 
 ## Project Documentation
 
-[Project Proposal](https://github.com/pjsilvestre/CS157A-21/blob/master/docs/Project_Proposal.md)
+[Project Proposal](https://github.com/clairelin23/What-Do-I-Wear/blob/master/docs/Project_Proposal.md)
 
-[Project Requirements](https://github.com/pjsilvestre/CS157A-21/blob/master/docs/Project_Requirements.md)
+[Project Requirements](https://github.com/clairelin23/What-Do-I-Wear/blob/master/docs/Project_Requirements.md)
 
 [Project Data Model and Database Design v1](https://github.com/pjsilvestre/CS157A-21/blob/master/docs/Project_Data_Model_And_Database%20Designs/Project_Data_Model_and_Database_Design_v1.md)
 
@@ -14,7 +14,7 @@ This repo contains the project developed by Team 21 ([Devin Gonzales](https://gi
 
 [Project Data Model and Database Design v3 (Current)](https://github.com/pjsilvestre/CS157A-21/blob/master/docs/Project_Data_Model_And_Database%20Designs/Project_Data_Model_and_Database_Design_v3.md)
 
-[Project Final Report](https://github.com/pjsilvestre/CS157A-21/blob/master/docs/Project_Final_Report.md)
+[Project Final Report](https://github.com/clairelin23/What-Do-I-Wear/blob/master/docs/Project_Final_Report.md)
 
 ## Running in Development Mode
 

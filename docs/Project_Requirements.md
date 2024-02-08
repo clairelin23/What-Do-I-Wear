@@ -43,10 +43,6 @@ This application will be based in the fashion and clothing domain.
 
 ## System Environment in Detail
 
-### Structure
-
-![Three-tier architecture diagram](./images/three-tier-architecture.png)
-
 ### Hardware/Software
 
 * Development Operating Systems
